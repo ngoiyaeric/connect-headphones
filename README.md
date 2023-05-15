@@ -7,12 +7,6 @@ To have this working on your computer:
 
 brew install blueutil 
 
-2. Find your device mac address by typing in the following command
 
-blueutil --paired
-
-This will list all previously connected devices' mac addresseses 
-
-3. Replace it in the script, 
 
 
