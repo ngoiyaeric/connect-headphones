@@ -1,5 +1,5 @@
 # connect-headphones
-My headphones are always disconnecting from my computer, so i wrote a script to connect it automatically.
+Python Script to automate bluetooth connection.
 
 
 
